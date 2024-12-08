@@ -1,0 +1,9 @@
+
+Alias /user/<username> /usr/local/src/mindie-profile/blank-gh-site/index.html
+<Location /user/<username>>
+	<RequireAll>
+		Require all granted
+	</RequireAll>
+</Location>
+
+# vim: syntax=apache ts=4 sw=4 sts=4 sr noet
