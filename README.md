@@ -9,6 +9,8 @@ The following `<link>` elements reflect other MIndie projects:
 1. `<link rel="authorization_endpoint" href="https://example.com/selfauth/index.php" />`
 1. `<link rel="token_endpoint" href="https://example.com/selfauth/token.php" />`
 
+This provides the Profile component of [MIndie](https://github.com/carrvo/mindie).
+
 ## Setup
 
 1. Clone to `/usr/local/src/`
